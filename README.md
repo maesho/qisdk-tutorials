@@ -23,4 +23,4 @@ in the official [Pepper SDK for Android site](https://qisdk.softbankrobotics.com
 
 ## License
 
-See the [COPYING](COPYING) file for the license.
+See the [COPYING](COPYING.txt) file for the license.
